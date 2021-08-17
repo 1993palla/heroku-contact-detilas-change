@@ -1,0 +1,13 @@
+{
+    "name": "Phone Change",
+    "description": "Heroku Connect Sample App - Phone Change",
+    "repository": "https://github.com/1993palla/heroku-connect-details-change",
+    "success_url": "/setup.html",
+    "env": {
+      "PGSSLMODE": {
+        "description": "Require SSL for Postgres",
+        "value": "require"
+      }
+    }
+  }
+  
